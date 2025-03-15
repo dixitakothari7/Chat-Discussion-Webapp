@@ -1,0 +1,51 @@
+[   
+    {
+        "id": 1,
+        "name": "Ayush",
+        "status": "online",
+        "profile": "assets/images/users/avatar-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dixita Kothari",
+        "status": "online",
+        "profile": "assets/images/users/avatar-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mayur",
+        "status": "online",
+        "profile": "assets/images/users/avatar-3.jpg"
+    },
+    {   "id": 4,
+        "nickname": "Ashu",
+        "name": "Ashritha",
+        "status": "Offline", 
+        "profile": "" 
+    }, 
+    {
+        "id": 5,
+        "name": "Dinakar",
+        "status": "Offline",
+        "profile": "assets/images/users/avatar-6.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Asha",
+        "status": "online",
+        "profile": "assets/images/users/avatar-7.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Latha",
+        "status": "online",
+        "profile": "assets/images/users/avatar-8.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ashalatha",
+        "status": "online",
+        "profile": "assets/images/users/avatar-9.jpg"
+    }    
+  ]
+  

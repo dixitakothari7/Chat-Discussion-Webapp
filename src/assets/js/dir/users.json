@@ -1,0 +1,83 @@
+[
+  {
+    "users": [
+      {
+        "id": 5,
+        "name": "Dinakar",
+        "status": "online",
+        "lastmessage": "Pleased to meet you again!",
+        "profile": "assets/images/users/avatar-3.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Asha",
+        "status": "online",
+        "lastmessage": "Sure buddy😎",
+        "profile": "assets/images/users/avatar-12.jpg",
+        "messagecount" : 8
+      },
+      {
+        "id": 7,
+        "name": "Latha",
+        "status": "online",
+        "lastmessage": "Thank you for your answer!",
+        "profile": "assets/images/users/avatar-5.jpg"
+      }
+      ,
+      {
+        "id": 8,
+        "name": "Ashalatha",
+        "status": "online",
+        "lastmessage": "Hii there, How are you?",
+        "profile": "assets/images/users/avatar-11.jpg"
+      },
+      {
+        "id": 9,
+        "nickname": "AK",
+        "name": "Adinda Kirana",
+        "status": "Will be there at the coffee house",
+        "lastmessage": "How are you and your family ",
+        "profile": ""
+      },
+      {
+        "id": 10,
+        "name": "Ayush",
+        "status": "online",
+        "lastmessage": "Good Morning!🌞",
+        "profile": "assets/images/users/avatar-8.jpg",
+        "messagecount" : 5
+      },
+      {
+        "id": 11,
+        "name": "Mayur",
+        "status": "online",
+        "lastmessage": "Okay, Sure",
+        "profile": "assets/images/users/avatar-10.jpg"
+      }
+    ],
+    "favorites": [
+      {
+        "id": 1,
+        "name": "Ayush",
+        "status": "online",
+        "lastmessage": "Hey, I'm going to meet a friend of",
+        "profile": "assets/images/users/avatar-2.jpg",
+        "messagecount" : 18
+      },
+      {
+        "id": 2,
+        "name": "Mayur",
+        "status": "online",
+        "lastmessage": "Yeah everything is fine. Our next meeting tomorrow ",
+        "profile": "assets/images/users/avatar-7.jpg"
+      }
+    ],
+    "channels": [
+      { "id": 12, "nickname": "LD","name": "Landing Design", "members": 20, "profile": "assets/images/users/group-img.jpg", "messagecount": 12, "lastmessage": "23 Members" },
+      { "id": 13, "nickname": "SM", "name": "Sales & Marketing", "members": 10, "profile": "", "lastmessage": "10 Members" },
+      { "id": 14, "nickname": "BS", "name": "Brand Suggestion", "members": 28, "profile": "", "messagecount": 85, "lastmessage": "28 Members" },
+      { "id": 15, "nickname": "R", "name": "Reporting", "members": 12, "profile": "", "lastmessage": "10 Members" }
+    ]
+  }
+]
+
